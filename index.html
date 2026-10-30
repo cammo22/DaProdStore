@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Il negozio dei programmi e giochi DaProd Produzioni.">
+<title>DaProdStore · Il banco dei prodotti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#catalogo">Vai al catalogo</a>
+<header class="top"><div class="wrap top-inner"><a class="brand" href="#inizio"><img src="logo.svg" alt="" width="42" height="42"><span>DaProd<em>Store</em><small>PRODUZIONI · NAPOLI</small></span></a><a class="top-link" href="https://cammo22.github.io/Portfolio/">Il portfolio <span aria-hidden="true">↗</span></a></div></header>
+<main id="inizio" class="wrap">
+<section class="hero"><div><p class="eyebrow"><span class="led"></span> DAPROD PRODUZIONI / STORE</p><h1>Il banco dei<br><span>prodotti.</span></h1><p class="intro">Programmi, strumenti e giochi. Tutto quello che costruiamo, in un posto solo.</p><a class="hero-link" href="#catalogo">Esplora il catalogo <span aria-hidden="true">↓</span></a></div><div class="display" aria-hidden="true"><div class="display-top"><span>SISTEMA / ONLINE</span><span>DP-01</span></div><div class="display-mark">D<span>P</span><i>✳</i></div><div class="meter"><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div><div class="display-bottom">PROGETTATO A NAPOLI <span>● PRONTO</span></div></div></section>
+<section id="catalogo" class="catalog"><div class="section-heading"><div><p class="eyebrow">01 / IL CATALOGO</p><h2>Scegli il tuo prodotto<span>.</span></h2></div><p id="count" aria-live="polite">Caricamento catalogo…</p></div>
+<div class="controls"><label class="search"><span>Cerca</span><input id="search" type="search" placeholder="Nome o parola chiave" autocomplete="off"></label><label><span>Categoria</span><select id="category"><option value="">Tutte le categorie</option></select></label><label><span>Piattaforma</span><select id="platform"><option value="">Tutte le piattaforme</option></select></label></div>
+<div id="products" class="grid"></div><p id="empty" class="empty" hidden>Nessun prodotto trovato. Prova a cambiare i filtri.</p><p id="error" class="empty" role="alert" hidden>Non riesco a caricare il catalogo. Ricarica la pagina.</p></section>
+</main><footer><div class="wrap footer-inner"><span>© DaProd Produzioni · fatto a Napoli</span><a href="https://github.com/cammo22">GitHub ↗</a></div></footer>
+<dialog id="download"><div class="dialog-head"><div><p class="eyebrow">DOWNLOAD / RELEASE GITHUB</p><h2 id="dialog-title">Scarica</h2></div><button id="close" class="close" type="button" aria-label="Chiudi">×</button></div><div id="release-content" aria-live="polite"></div></dialog>
+</body></html>

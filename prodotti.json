@@ -1,0 +1,114 @@
+[
+  {
+    "nome": "DaProd Editor Video",
+    "repo": "cammo22/DaProdEditorVideo",
+    "descrizione": "Il banco di montaggio: grafica Banco, LIVE, Montage e AI locali opzionali.",
+    "piattaforme": [
+      "Windows",
+      "macOS"
+    ],
+    "categoria": "Video",
+    "stato": "disponibile",
+    "immagine": null
+  },
+  {
+    "nome": "DaP Convertitore",
+    "repo": "cammo22/DaP-Convertitore",
+    "descrizione": "Converti video, audio, foto, PDF, documenti e archivi dal tasto destro. Tutto in locale.",
+    "piattaforme": [
+      "Windows"
+    ],
+    "categoria": "Utilità",
+    "stato": "disponibile",
+    "immagine": "https://raw.githubusercontent.com/cammo22/DaP-Convertitore/main/risorse/readme/hero.png"
+  },
+  {
+    "nome": "DaProd Image",
+    "repo": "cammo22/DaProdImage",
+    "descrizione": "Crea e modifica immagini sul tuo PC con Qwen-Image 2.1.",
+    "piattaforme": [
+      "Windows"
+    ],
+    "categoria": "Creatività",
+    "stato": "disponibile",
+    "immagine": "https://raw.githubusercontent.com/cammo22/DaProdImage/main/build/icon.png"
+  },
+  {
+    "nome": "DaProdGiochi",
+    "repo": "cammo22/DaProdGiochi",
+    "descrizione": "Una sala giochi privata con hub Windows, telefoni collegati ed economia di gioco.",
+    "piattaforme": [
+      "Windows",
+      "Android"
+    ],
+    "categoria": "Giochi",
+    "stato": "disponibile",
+    "immagine": null
+  },
+  {
+    "nome": "DaProdFinanza",
+    "repo": "cammo22/DaProdFinanza",
+    "descrizione": "Controllo di gestione, bilanci, indici, previsioni di cassa e report. Dati offline.",
+    "piattaforme": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "categoria": "Produttività",
+    "stato": "disponibile",
+    "immagine": null
+  },
+  {
+    "nome": "DaProdCompanion",
+    "repo": "cammo22/DaProdCompanion",
+    "descrizione": "Un companion AI locale in italiano, con avatar, memoria, voce e strumenti.",
+    "piattaforme": [
+      "Windows",
+      "Android"
+    ],
+    "categoria": "AI",
+    "stato": "disponibile",
+    "immagine": null
+  },
+  {
+    "nome": "DaProd Claw Machine",
+    "repo": "cammo22/DaProd-ClawMachine",
+    "descrizione": "Una macchina arcade 3D con pinza, premi, combo e negozio.",
+    "piattaforme": [
+      "Browser",
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "categoria": "Giochi",
+    "stato": "disponibile",
+    "immagine": null,
+    "gioca": "https://cammo22.github.io/DaProd-ClawMachine/gioca/"
+  },
+  {
+    "nome": "DaProd Coin Dozer",
+    "repo": "cammo22/daprod-coin-dozer",
+    "descrizione": "Una sala slot con lire, monete, potenziamenti e gioco idle.",
+    "piattaforme": [
+      "Browser",
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "categoria": "Giochi",
+    "stato": "disponibile",
+    "immagine": null,
+    "gioca": "https://cammo22.github.io/daprod-coin-dozer/"
+  },
+  {
+    "nome": "DaProdOCR",
+    "repo": "cammo22/DaProdOCR",
+    "descrizione": "OCR locale con Ollama e una libreria per organizzare i documenti.",
+    "piattaforme": [
+      "Windows"
+    ],
+    "categoria": "Produttività",
+    "stato": "disponibile",
+    "immagine": null
+  }
+]
