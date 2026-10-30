@@ -1,5 +1,10 @@
 # DaProdStore
 
+<p align="center">
+  <a href="https://cammo22.github.io/DaProdStore/"><img src="https://img.shields.io/badge/%F0%9F%9B%92%20Apri%20lo%20Store-cammo22.github.io%2FDaProdStore-ffd54a?style=for-the-badge&labelColor=0b0a0f" alt="Apri lo Store"></a>
+  <a href="https://discord.gg/Njs52aacwq"><img src="https://img.shields.io/badge/Discord-Entra%20nel%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b0a0f" alt="Discord"></a>
+</p>
+
 Il banco dei prodotti di DaProd Produzioni: programmi e giochi in una pagina statica per GitHub Pages. HTML, CSS e JavaScript, senza build o chiavi API.
 
 ## Aggiungere un prodotto
